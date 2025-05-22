@@ -22,4 +22,4 @@ numero2 = int(input("ingresa el segundo numero "))
 numero3 = int(input("ingresa el tercer numero "))
 
 promedio = (numero1 + numero2 + numero3) / 3
-print("el promedio de los numeros es: ", promedio)
+print("el promedio de los numeros es: ", promedio)  
