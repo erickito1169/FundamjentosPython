@@ -16,7 +16,7 @@ intentos = 10
 while True:
     numero = int(input("Adivina el numero: "))
     if aleatorio == numero:
-        aleatorio = intentos - 1
+        aleatorio = intentos - 1  
         print("Adivinaste el numero: ")
         print(f"te quedaban { intentos } intentos")
         break
